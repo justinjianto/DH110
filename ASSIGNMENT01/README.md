@@ -6,9 +6,11 @@ I want to improve the websites below by creating a more sleek and streamlined we
 
 ## Website 1
 ### Screenshot
-insert here
+<img width="1442" alt="image" src="https://user-images.githubusercontent.com/54749984/161694526-16e3a3da-4282-44c1-8837-33e38255bbf1.png">
 ### URL
+[Website Link](https://www.imusic-school.com/en/)
 ### About the website
+This website is a subscription platform thats lets people to learn to play instruments or sing through a series of videos taught by professionals. Furthermore, it is broken down by type of instrument and then by the level of the user: Beginner, Intermediate, Advanced, Expert
 ### Evaluation
 10 Heuristics
 Analysis of web app
