@@ -40,9 +40,12 @@ Analysis of web app
 
 ## Website 2
 ### Screenshot
-insert here
+![image](https://user-images.githubusercontent.com/54749984/161801358-7ceb7fbb-b9cd-40d7-b05c-174cfb4bcb40.png)
+
 ### URL
+[Website Link](https://splice.com/sounds/beatmaker)
 ### About the website
+Splice is a website that allows for users to quickly create beats online using different electronic instruments and allowing for switching out of different music sets.
 ### Evaluation
 10 Heuristics
 1. Visibility of System Status
