@@ -14,6 +14,18 @@ I want to improve the websites below by creating a more sleek and streamlined we
 This website is a subscription platform thats lets people to learn to play instruments or sing through a series of videos taught by professionals. Furthermore, it is broken down by type of instrument and then by the level of the user: Beginner, Intermediate, Advanced, Expert
 ### Evaluation
 10 Heuristics
+1. Visibility of System Status
+2. Match between System and the Real world
+3. User Control and Freedom
+4. Consistency and Standards
+5. Error Prevention
+6. Recognition rather than recall
+7. Flexibility and Efficiency of Use
+8. Aesthetic and Minimalist Design
+9. Help Users Recognize, Diagonse, and Recover from Errors
+10. Help and Documentation
+
+
 Analysis of web app
 
 ## Website 2
@@ -23,4 +35,16 @@ insert here
 ### About the website
 ### Evaluation
 10 Heuristics
+1. Visibility of System Status
+2. Match between System and the Real world
+3. User Control and Freedom
+4. Consistency and Standards
+5. Error Prevention
+6. Recognition rather than recall
+7. Flexibility and Efficiency of Use
+8. Aesthetic and Minimalist Design
+9. Help Users Recognize, Diagonse, and Recover from Errors
+10. Help and Documentation
+
+
 Analysis of web app
