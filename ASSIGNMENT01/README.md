@@ -7,6 +7,7 @@ I want to improve the websites below by creating a more sleek and streamlined we
 ## Website 1
 ### Screenshot
 <img width="1442" alt="image" src="https://user-images.githubusercontent.com/54749984/161694526-16e3a3da-4282-44c1-8837-33e38255bbf1.png">
+
 ### URL
 [Website Link](https://www.imusic-school.com/en/)
 ### About the website
