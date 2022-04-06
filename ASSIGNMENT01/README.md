@@ -92,11 +92,11 @@ I really like the interface that Splice provides, which directly allows for user
   - 1/3
 8. Aesthetic and Minimalist Design
   - This is the websites strongest suit, it provides an extremely streamlined interface, with 2 main portions, the actual beatmaker which lets you select different isntruments and add when you want to come in and the specific beatpack you want to use.
-15. Help Users Recognize, Diagonse, and Recover from Errors
+9. Help Users Recognize, Diagonse, and Recover from Errors
   - It is true that errors are limited to happen, but user errors that are technically not system errors have no recovery. Users can easily accidently clear their beats and cannot recover from it
   - I think the website would greatly benefit from having user tests then adding barriers confirming actions on where users most have issues, such as the clearing of the beats without any type of confirmation
   - 3/3
-17. Help and Documentation
+10. Help and Documentation
   - This is completely lacking in the website, there is not any sort of faq, help page, or hovers to understand what is going on. Everything shown on the website requires people to actually trial the beatmaker to know what is going on
   - To fix this, it would require another section that explains how the previous 2 sections work. Furthermore, adding differnet icons of question mark on the actual beatmaker that on hovers would give information on what is happening would be beneficial
   - 3/3
