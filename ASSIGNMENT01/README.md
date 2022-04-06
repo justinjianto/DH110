@@ -2,7 +2,8 @@
 ## Assignment 1: Heuristic Evaluation
 Justin Jianto, DH110
 ### Description
-I want to improve the websites below by creating a more sleek and streamlined website that is able to deliver content clearly. Furthermore create a consistent website design.
+For this project I wanted to hone in on the process of learning and creating music. Thus, I chose 2 websites, one that taught music through videos/lessons and the second one a more hands on website, that allows for the creation of beats composed of different instruments and music packs that are included.
+My goal is that I want to improve the websites below by creating a more sleek and streamlined website that is able to deliver content clearly. Furthermore create a consistent website design.
 
 ## Website 1
 ### Screenshot
@@ -11,7 +12,7 @@ I want to improve the websites below by creating a more sleek and streamlined we
 ### URL
 [Website Link](https://www.imusic-school.com/en/)
 ### About the website
-This website is a subscription platform thats lets people to learn to play instruments or sing through a series of videos taught by professionals. Furthermore, it is broken down by type of instrument and then by the level of the user: Beginner, Intermediate, Advanced, Expert
+This website is a subscription platform thats lets people to learn to play instruments or sing through a series of videos taught by professionals. Furthermore, it is broken down by type of instrument and then by the level of the user: Beginner, Intermediate, Advanced, Expert.
 ### Initial Evaluation
 My initial thoughts on the website was that it presented a lot of good information and I liked the structure it broke down learning different types of music: level, instrument, and instructor. However, the main page is a little hard to follow with an overload of text and a cluttered design. Furthermore, interacting with the page more it is hard to sometimes derive exactly what the purpose of a page is, which is exacerbated with inconsisten action of clickable icons.
 ### Evaluation
@@ -33,6 +34,7 @@ My initial thoughts on the website was that it presented a lot of good informati
   - The consistency is lacking in the website, some of the icons when hovered on dissapear while others do not. 
   - The spacing of text changes between different chunks of text
   - A portion of the website has an arrow that you can click to cycle through different options of teachers, but when getting to the last one it redirects to another page instead of cycling back to front
+  - A solution to this would be to having the buttons follow what they do in other contexts also
   - 2/3
 5. Error Prevention
   - There is a problem with error prevention, which we can recreate by when resizing the window and then clicking the side menu and login, when clicking on login it redirects to a not found page with no other information
@@ -60,7 +62,7 @@ My initial thoughts on the website was that it presented a lot of good informati
 ### URL
 [Website Link](https://splice.com/sounds/beatmaker)
 ### About the website
-Splice is a website that allows for users to quickly create beats online using different electronic instruments and allowing for switching out of different music sets.
+Splice is a website that allows for users to quickly create beats by clicking on the instrument and the place you want it to play online using different electronic instruments and allowing for switching out of different music sets for each individual instrument.
 ### Initial Thoughts
 I really like the interface that Splice provides, which directly allows for users to quickly to start playing with different music sounds. However, after looking deeper it provides very little help in terms of how to work beyond the basics, as in using the different sets for instruments in the bottom. It requires a lot of expirementing from the end user to guess and check what is happening
 ### Evaluation
@@ -100,3 +102,6 @@ I really like the interface that Splice provides, which directly allows for user
   - This is completely lacking in the website, there is not any sort of faq, help page, or hovers to understand what is going on. Everything shown on the website requires people to actually trial the beatmaker to know what is going on
   - To fix this, it would require another section that explains how the previous 2 sections work. Furthermore, adding differnet icons of question mark on the actual beatmaker that on hovers would give information on what is happening would be beneficial
   - 3/3
+
+
+NOTE: For Heuristics I thought was adequate I did not add a severity rating as there was no severity.
