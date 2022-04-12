@@ -5,6 +5,6 @@ The purpose of the UT was to test how usable the website was to a brand new user
 https://forms.gle/7F11i4sujTyB8QFm6
 
 # Link to Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9lAcopRiQE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Usability Testing Video)[https://www.youtube.com/watch?v=9lAcopRiQE0]
 
 # Reflection:
