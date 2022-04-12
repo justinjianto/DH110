@@ -9,3 +9,6 @@ https://forms.gle/7F11i4sujTyB8QFm6
 [Usability Testing Video](https://www.youtube.com/watch?v=9lAcopRiQE0)
 
 # Reflection:
+One paragraph describing what you learned during the pilot test, what went well and what did not go well, focusing on how you want to improve your UT in the future.
+
+After conducting the pilot test I learned it was hard being an impartial moderator, as I wanted to constantly interject with how I would do, but I would have to be quiet and observe what the user is doing. I think the tasks went well and smooth, in laying out what the user had to do. However at certain points the participant would ask for help and it would take me some time to generate some answers to respond without giving away answers. In the future I want to have more robust cases for testing and more comprehensive follow up questions. I think I can allow for more user interactions instead of rigid set questions through asking open ended questions.
