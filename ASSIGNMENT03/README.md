@@ -34,12 +34,12 @@ What are the characteristics of users? (ex. demographics, preference, expertise,
 
 # Script
 
-1. [Script Link](https://docs.google.com/document/d/1aTFO1jhFQW6pi_Jgvxdr91aaDeGCwzJ0n3-H13Sl13Y/edit?usp=sharing)
+[Script Link](https://docs.google.com/document/d/1aTFO1jhFQW6pi_Jgvxdr91aaDeGCwzJ0n3-H13Sl13Y/edit?usp=sharing)
 
 # User Activitiy
 
-[Audio File](https://drive.google.com/file/d/1lDx3thkd9RHAGsa-XClEtn7N_sI95r_g/view?usp=sharing)
-[Transcript](https://drive.google.com/file/d/1YdO99aYEbpnf5TkKfrKuFQ9rmN7G7bXs/view?usp=sharing)
+1. [Audio File](https://drive.google.com/file/d/1lDx3thkd9RHAGsa-XClEtn7N_sI95r_g/view?usp=sharing)
+2. [Transcript](https://drive.google.com/file/d/1YdO99aYEbpnf5TkKfrKuFQ9rmN7G7bXs/view?usp=sharing)
 
 # Insights
 
