@@ -37,7 +37,7 @@ What are the characteristics of users? (ex. demographics, preference, expertise,
 # User Activitiy
 
 1. [Audio File](https://drive.google.com/file/d/1lDx3thkd9RHAGsa-XClEtn7N_sI95r_g/view?usp=sharing)
-2. [Transcript](https://drive.google.com/file/d/1YdO99aYEbpnf5TkKfrKuFQ9rmN7G7bXs/view?usp=sharing)
+2. [Transcript](https://drive.google.com/file/d/1XTO71PqznZL8RvjcV4EOxGGOuyxjTB-w/view?usp=sharing)
 
 # Insights
 
