@@ -1,6 +1,6 @@
 # Assignment 3: Contextual Inquiry
 
-# 1.
+# Description of Project
 
 What is the main activity your project would support for the users?
 
@@ -18,7 +18,6 @@ What is(are) the limitation(s) that possibly would be improved?
 
 - As mentioned before the current solutions have high barriers of entry, which requires either extensive background knowledge and what to search or having connections to teach you, which most people do not access too. This could be improved upon by creating a free online streamlined service that allows for learning/creation of beats, by anyone with a computer and an internet connection
 
-# 2.
 
 What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
 
@@ -27,7 +26,6 @@ What are the characteristics of users? (ex. demographics, preference, expertise,
 - Expertise: Users do not need to have any expertise in music production, basic understanding of music theory such as bpm, beats may prove to be helpful, but not required
 - The app is meant to be mainstream, used by everyone, not highly specialized to cater to a small group of people
 
-# 3.
 
 - The research method used will be by participatory observation research
 
