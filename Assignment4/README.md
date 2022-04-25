@@ -6,6 +6,15 @@ UX storytelling allows for us to better understand what type of music producers 
 
 ![image](https://user-images.githubusercontent.com/54749984/165185634-6709ff18-7553-405d-b81c-978219a928c1.png)
 
+### Empathy Map 2
+
+![image](https://user-images.githubusercontent.com/54749984/165190950-b231039b-6270-44b7-b5fa-32dc925c4185.png)
+
+
 # Persona 2
 
 ![image](https://user-images.githubusercontent.com/54749984/165185682-ca467866-8e25-40b7-bde2-2234dd41e08b.png)
+
+### Empathy Map 2
+
+![image](https://user-images.githubusercontent.com/54749984/165190978-7d950fdc-d634-4bb0-b17f-7b03ca6b00ec.png)
