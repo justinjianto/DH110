@@ -36,4 +36,10 @@ Jonah quickly realizes early on that most of the software is not very social, ra
 
 # Journey Map 2
 
-# Reflection
+![image](https://user-images.githubusercontent.com/54749984/165231297-017227e0-0c36-4e10-847c-a1927533e7fe.png)
+
+# Reflection Note
+
+I realized when I first started making Personas it was a struggle for me to come up with anything. However, something I found useful was to draw examples from people in my everyday lives that apply to this scenario. For instance, Divan Rim is partly based off one of my friends here at UCLA who is very tech driven and I interviewed for one of the previous studies and always has little time. Jonah Brodkey is based off my friend who is in UCLA game orchestra and I asked him what his experience with that was and incorporated what I thought was relevant.
+
+
