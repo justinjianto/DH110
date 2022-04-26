@@ -16,6 +16,10 @@ Divan Rim is a 40 year old software engineer living in San Francisco that has a 
 
 When Divan gets home from work he opens up his personal laptop and likes to dive straight into making beats. He does not like reading through tutorials and them testing it out afterwards, but rather learns by doing. So he opens up our website that allows him to immediately start experimenting with beats. Since he does not know much he clicks on help buttons that correlate to each instrument that will explain to him what he is trying to do with that button. With this, Divan is able to quickly understand what the interface is doing and create the pattern he wants with the music. Since he gets home from work late, he does not have the time to finish up the production of his song in one sitting, but that is no worry, as the interface allows him to save his progress. When he comes back from work the next day he is able to pick right back up and finish the beat. After he is done the website automatically will save it for him and archive it with a name of his choosing, which satisfies him as he can track his progress over time.
 
+# Journey Map 1
+
+![image](https://user-images.githubusercontent.com/54749984/165209511-088bbcbc-6170-4c09-ad6f-e2fbedf00690.png)
+
 # Persona 2
 
 ![image](https://user-images.githubusercontent.com/54749984/165185682-ca467866-8e25-40b7-bde2-2234dd41e08b.png)
