@@ -27,3 +27,13 @@ When Divan gets home from work he opens up his personal laptop and likes to dive
 ### Empathy Map 2
 
 ![image](https://user-images.githubusercontent.com/54749984/165190978-7d950fdc-d634-4bb0-b17f-7b03ca6b00ec.png)
+
+# Scenario 2
+
+Jonah Brodkey recently moved to New York to start a new principal researcher position at NYU. He originally was from Oregon working under a professor and the role was relatively relaxed, thus he spent a lot of his free time practicing and performing in a local orchestra. He enjoyed the social aspect orchestra provided as he was able to bond with a lot of his team members through their love for music. However, since moving and starting his new job, he lost this social connection and he does not have the time anymore to dedicate his time to an orchestra in New York. Thus, he is looking to recreate this but in an online setting to save time, but this time he shifts towards music production as he always led his orchestra and wrote their own pieces and would like to learn more about composition of music. More specifically, he wants to be able to combine a large social aspect with the music production, wanting to be able to share his music, view others, and work on other peoples beats. Furthermore, Jonah is not very technically literate, so he would like a service that is simple to use and not too complex.
+
+Jonah quickly realizes early on that most of the software is not very social, rather focusing on just creating beats and do not really provide a way of interacting with others. He stumbles upon our website and sees that it is advertised as a social beat maker. Since he is more experienced with music, he is able to quickly pick up the interface and creates a quick short song just using drums and hi hats, he is more interested in the social aspect. Once he finishes the beat he wants to share it with others and he sees there is a feature to post the beat he created. He posts his beat and the next day he sees that multiple people have left comments and suggestions on his beats, some people like, some don’t, but Jonah is ecstatic that he is able to interact with these people. He quickly gets involved and starts editing his beats again based off the feedback and he stumbles across another function. He can share the beat unfinished by itself with other people and they can also collaborate on it. Thus, he chooses to do this and sends the beat to a few of his commentors and they all happily work on the beat. At the end of this Jonah is satisfied as he is able to recreate the social aspect of Orchestra in a shorter time period and at a cost effective manner.
+
+# Journey Map 2
+
+# Reflection
