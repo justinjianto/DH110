@@ -17,12 +17,12 @@ The Wireframes and Wireflow can be found here: [click here](https://docs.google.
 
 # Testing
 
-I tested the 2 flows with 2 people and here is the video recording of it.
+I tested the 2 flows with 2 people and here is the walkthrough they provided. I did it through showing them the beginning screen and changing it depending on where they clicked. I changed the format to a google slide flow to make it easier to comprehend. [click here](https://docs.google.com/presentation/d/1xXxtWePETWvey9JvUmDQRFZYdUvRA0NJPI9z8NPfM78/edit?usp=sharing)
 
 # Reflection
 
 Starting off with the process I went through a couple different tools to create the wireframe. I first started by drawing it out by hand, which proved to be cumbersome and did not look good. Thus, I switched over to whimsical, which led to a much smoother development. I was able to copy components and create screens much quicker due to all the features they provided. In terms of creating the content itself, I based it off of the tasks I created previously, but I had to tweak it a little bit, as I realized some of what I wrote did not translate over to a visual form.
 
-Based off the feedback from my prototype testing I would add a screen that gives an explanation or add another help button for the main interface, since he was confused on how to use the actual beat creation itself, which in my mind was going to be self explanatory.
+Based off the feedback from my prototype testing I would add a screen that gives an explanation or add another help button for the main interface, since he was confused on how to use the actual beat creation itself, which in my mind was going to be self explanatory. I tested the two tasks with two separate people, when I explained it I was alluding to using the help button, but one of them easily skipped over it thus skipping the screen. Furtehrmore, for the bpm the interface was not very clear to them that they needed to add a bpm before playing a beat so I could add a mother screen that  creates a pop up alerting the user to create one.
 
-If I were to redo this from scratch I think I would walk through each of my screens with a tester first, since I created the frame and flow all together it is repetitive work to change when my tester gave me feedback.
+If I were to redo this from scratch I think I would walk through each of my screens with a tester first, since I created the frame and flow all together it is repetitive work to change when my tester gave me feedback. Furthermore, in my head I had envisioned people to use my program in a certain flow, thus there are some edge cases I did not think about or the testers going a few extra steps to finish it.
