@@ -17,7 +17,7 @@ The Wireframes and Wireflow can be found here: [click here](https://docs.google.
 
 # Testing
 
-I tested the 2 flows with 2 people and here is the walkthrough they provided. I did it through showing them the beginning screen and changing it depending on where they clicked. I changed the format to a google slide flow to make it easier to comprehend. [click here](https://docs.google.com/presentation/d/1xXxtWePETWvey9JvUmDQRFZYdUvRA0NJPI9z8NPfM78/edit?usp=sharing)
+I tested the 2 flows with 2 people and here is the walkthrough they provided. I did it through showing them the beginning screen and changing it depending on where they clicked. I changed the format to a google slide flow to make it easier to comprehend. In terms of the actual test, they were both able to complete the tasks, however it was not the most optimal flow to finish them, rather they went through some other screens, which would not lead to them being stuck, but were not super relevant to the tasks. [click here](https://docs.google.com/presentation/d/1xXxtWePETWvey9JvUmDQRFZYdUvRA0NJPI9z8NPfM78/edit?usp=sharing)
 
 # Reflection
 
