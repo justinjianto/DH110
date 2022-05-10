@@ -24,3 +24,14 @@ The purpose of this assignment was to go from our low fidelity prototype to a wo
 
 
 # Design System
+- Typeface
+    - Font: Poppins
+    - Color: White, Black, Purple Ombre
+    - Header: Size 60, Semibold
+    - Main Body Buttons: Size 24, Semibold
+    - Bottom Buttons: Size 24, Semibold
+    - Small Buttons: Size 18, Semibold
+- Headers
+    - Color: 7579FF, 60% Opacity
+- Background
+    - Color: F0ADAD, 56% Opacity
