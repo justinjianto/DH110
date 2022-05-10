@@ -35,3 +35,8 @@ The purpose of this assignment was to go from our low fidelity prototype to a wo
     - Color: 7579FF, 60% Opacity
 - Background
     - Color: F0ADAD, 56% Opacity
+- Layout Grid:
+    - 8 rows, 0 Margin, 5 gutter
+    - 15 columns, 0 Margin, 5 gutter
+
+I started off the design with having the layout being the central piece, I envisioned something that my music production app should be the dead center product and everything else being accessories, from this I created the 8x15 grid. I wanted to keep the gutter small since I wanted to make sure to users that the main component is all grouped together. Next was the color scheme, I knew I wanted purple, but I was not sure what else would contrast well with it, so I chose it based off trial and error after googling what colors paired well with purple.
