@@ -19,5 +19,8 @@ The purpose of this assignment was to go from our low fidelity prototype to a wo
 ## Color Variation
 
 ![image](https://user-images.githubusercontent.com/54749984/167738226-f4419300-4911-4463-a9a1-d7d9cc6d3420.png)
+![image](https://user-images.githubusercontent.com/54749984/167739860-21b64a8a-15c7-4360-9dc6-2d9b066c4327.png)
+![image](https://user-images.githubusercontent.com/54749984/167741935-6205358e-1851-4dab-9848-fed11003334b.png)
+
 
 # Design System
