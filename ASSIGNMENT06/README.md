@@ -16,5 +16,8 @@ The purpose of this assignment was to go from our low fidelity prototype to a wo
 
 ![image](https://user-images.githubusercontent.com/54749984/167730909-99e469b5-76fb-4d3f-8f25-9bbd2689654e.png)
 
+## Color Variation
+
+![image](https://user-images.githubusercontent.com/54749984/167738226-f4419300-4911-4463-a9a1-d7d9cc6d3420.png)
 
 
