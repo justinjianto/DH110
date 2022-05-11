@@ -49,5 +49,9 @@ I started off the design with having the layout being the central piece, I envis
 # Impression Testing
 
 Here is the link to the raw audio file of the impression test:
+https://drive.google.com/file/d/1YjXzeF0HHJ9qLG-Xq2NWYeGf6Jyt-ZpN/view?usp=sharing
 
 Some of the takeaways I had during impression testing:
+- Overall my participant found that the design was mostly appeasing, knowing what each button did and how to use the main interface
+- Did think that ombre style of buttons not to fit the theme very well
+- Found the pastel color scheme not to be his taste
