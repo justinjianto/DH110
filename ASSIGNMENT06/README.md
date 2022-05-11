@@ -1,6 +1,10 @@
 # Description 
 
-The purpose of this assignment was to go from our low fidelity prototype to a working design.
+The purpose of this assignment was to go from our low fidelity prototype to a working design, starting with a single screen. I decided to focus on the frame that would be the homepage of my application. I envisision that my application will be mostly used on laptops and tablets, so I am choosing to do a prototype as a ipad mini application. I first started out with the layout of things, creating a grid of how I wanted things to be seen. From this I tested through trial and error, adding buttons and text in ways I think would look good and drafted up multiple different types and mized and matched. I also kept feedback from the low fidelity prototyping in mind when creating the frame through figma.
+Here is a link out to the different designs I did for the frame: https://www.figma.com/file/ToPLurTeI053tIWrjFu4aa/Assignment-6?node-id=0%3A1
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/54749984/167748089-2226ea62-de07-4f2a-8a64-2a736199ca52.png">
+
+
 
 # Screen Design
 
