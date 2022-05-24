@@ -14,11 +14,12 @@ Active URL: https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node
 
 ### V1
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea5bc46e-ca4e-4b30-b574-67d1316e29d0/Untitled.png)
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/54749984/170106541-d1ef7523-b94b-4282-aff7-102648c23e10.png">
+
 
 ### V2 (After feedback from cognitive walkthrough)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a69aa906-a133-4ad4-b9b0-395fef0f7549/Untitled.png)
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/54749984/170106583-218b6b42-0819-4019-ae2a-764ab6441322.png">
 
 # Cognitive Walkthrough
 
