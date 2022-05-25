@@ -26,6 +26,7 @@ Active URL: https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node
 Evidence of Cognitive walkthrough:
 
 Cognitive walkthrough was conducted through zoom in class, where recording was not possible, but below is attached document of the feedback provided by participants.
+![image](https://user-images.githubusercontent.com/54749984/170192503-0a4c6fee-2c82-4a81-8116-838478b3fd90.png)
 
 Summary:
 
