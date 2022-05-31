@@ -53,7 +53,9 @@ Wireframe: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT05](https:
 
 ## Low-fidelity prototype
 
-After finalizing and getting feedback from the first version of wireframe I moved to figma to implement the beatmaker. The goal was to go from a low fidelity prototype to a working design, starting with a single screen. I decided to focus on the frame that would be the homepage of my application. I envisioned that my application will be mostly used on laptops and tablets, so I am choosing to do a prototype as a iPad mini application. I first started out with the layout of things, creating a grid of how I wanted things to be seen. From this I tested through trial and error, adding buttons and text in ways I think would look good and drafted up multiple different types and mixed and matched.
+After finalizing and getting feedback from the first version of wireframe I moved to figma to implement the home frame of the beatmaker. The goal was to go from a low fidelity prototype to a working design, starting with a single screen. I decided to focus on the frame that would be the homepage of my application. I envisioned that my application will be mostly used on laptops and tablets, so I am choosing to do a prototype as a iPad mini application. I first started out with the layout of things, creating a grid of how I wanted things to be seen. From this I tested through trial and error, adding buttons and text in ways I think would look good and drafted up multiple different types and mixed and matched.
+
+<img width="874" alt="image" src="https://user-images.githubusercontent.com/54749984/171267173-b8e908c8-9349-4b70-be9e-a61a7d0e6f4c.png">
 
 Low-Fidelity Prototype: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT06](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT06)
 
@@ -61,7 +63,10 @@ Different Designs: [https://www.figma.com/file/ToPLurTeI053tIWrjFu4aa/Assignment
 
 ## High-fidelity prototype
 
-Finally, we move from the low fidelity to the high fidelity prototype, creating designs for every single screen and creating interaction points. The purpose of the interactive prototype is to lay out a high level flow of how the application will look like and work without fully implementing it yet. This allows for easy tweaking and testing of the application with others before creating the application. In this step I also got 2 peers to do a cognitive walkthrough of my application and provide feedback of interactions which I improved upon.
+Finally, we move from the low fidelity to the high fidelity prototype, creating designs for every single screen and creating interaction points. The purpose of the interactive prototype is to lay out a high level flow of how the application will look like and work without fully implementing it yet. This allows for easy tweaking and testing of the application with others before creating the application. In this step I also got 2 peers to do a cognitive walkthrough of my application and provide feedback of interactions which I improved upon, which was mostly logic changes of the interfaces and a few cosmetic changes.
+
+<img width="1543" alt="image" src="https://user-images.githubusercontent.com/54749984/171267443-73c79b96-8c3d-4e3f-b3e9-763e4f087ffa.png">
+
 
 High Fidelity Prototype process: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT07](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT07)
 
