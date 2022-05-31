@@ -68,6 +68,12 @@ Summary statement and link to or an embedded prototype
 
 Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-11) Pitch video [update the video after recording your presentation]
+## Pitch video 
 
-12) conclusion: what you learned throughout the process
+WIP
+
+## conclusion: what you learned throughout the process
+
+This was my first ever exposure to the process of UI/UX research and it was an eye opening and great learning experience. Coming in I assumed most of the process was just going through different iterations of web designs on Figma and did not know about all the research that went in before even thinking about starting a prototype. Going through the design process taught a lot to me about the importance of doing research into competitors, goals of what you are creating, usability, and gauging feedback in every single step of the process. My biggest takeaway is that a vision that a designer might have to be perfect might not be well catered towards the public/targeted audience, so we constantly have to keep this in mind, thinking and working with the end users who will ultimately be the ones using the product. Learning this process through creating my own application has been a great experience as I went through it myself.
+
+Although in my career I will not be specifically going into UI/UX, but rather software engineering the takeaways are just as important in the field. I will now keep in mind when building products to have it fail safely, make it intuitive to use, and streamlined/simplistic as possible. Lasty and most importantly that I sometimes forget is that the process is not linear, rather you have to come back and revise over and over.
