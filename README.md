@@ -12,7 +12,7 @@ The motivation of the project is that the barrier to entry for music production 
 
 ## Design Statement
 
-The main issues are that current music production apps are **nonintuitive, expensive,** and**, separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a **large general demographic** to learn music production, **share it with friends**, for those who take it more casual or are just starting out, providing a frustration free solution.
+The main issues are that current music production apps are **nonintuitive, expensive,** and, **separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a large general demographic to **learn and create music production on the same platform**, **shar/collaborate with friends**, for those who take it more casual or are just starting out, providing a frustration **free** solution.
 
 ## Competitor analysis
 
