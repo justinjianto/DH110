@@ -16,9 +16,12 @@ The main issues are that current music production apps are **nonintuitive, expen
 
 ## Competitor analysis
 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+<img width="1901" alt="image" src="https://user-images.githubusercontent.com/54749984/171252132-1157a41b-d89a-4b59-85d2-9c8587859339.png">
 
-Before starting I did extensive research into alternate solutions and performed Heuristic Analysis and Usability Testing on [https://splice.com/sounds/beatmaker](https://splice.com/sounds/beatmaker), the closest web application to what I wanted to create. A quick summary of HA, I found that the website had major issues in Help and Documentation and User Control and Freedom. The website provided a tool to create beats, but did not explain at all in how to use it and was limited in the options it provided. These sentiments were reflected with my participant in the Usability Testing. 
+Before starting I did extensive research into alternate solutions and performed Heuristic Analysis and Usability Testing on [https://splice.com/sounds/beatmaker](https://splice.com/sounds/beatmaker), the closest web application to what I wanted to create. A quick summary of HA, I really like the interface that Splice provides, which directly allows for users to quickly to start playing with different music sounds. However, after looking deeper it provides very little help in terms of how to work beyond the basics, as in using the different sets for instruments in the bottom. It requires a lot of expirementing from the end user to guess and check what is happening.
+More Specifically, I found that the website had major issues in **Help and Documentation** and **User Control and Freedom**. The website provided a tool to create beats, but did not explain at all in how to use it and was limited in the options it provided. 
+
+Next I conducted user testing to see if my Heurisitic Analysis would be agreed with. The tasks that I had my participant do was **creating a simple beat**, **modifying the bea**t, and **saving the beat**. From the results my participant had trouble with creating a beat as he was confused with what was he was able and not able to do, in agreement with my heuristic analysis. Some other feedback provided was the application felt **Busy**, **Cheap**, and **Intimidating**
 
 Heuristic Analysis: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT01](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT01)
 
@@ -26,7 +29,7 @@ Usability Testing: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT02
 
 ## User Research
 
-Wanting to tailor the product to be intuitive to newcomers wanting to produce music I conducted user research with a participant that created rap beats casually in his free time to gain any insights that he had. The insights that I took away was that a large barrier to entry of music production is the barrier of cost, which I did not think about. My interviewer mentioned that the cost of the software he uses to create beats was too high on multiple occasions and his biggest gripe. I did not consider that newcomers may not even want to pay for these expensive softwares. Furthermore, it seems like people on the software are using it for a highly specialized purpose. For instance the participant was only using the software to create trap and rap beats exclusively.
+Wanting to tailor the product to be intuitive to newcomers wanting to produce music I conducted user research with a participant that created rap beats casually in his free time to gain any insights that he had. The insights that I took away was that a large barrier to entry of music production is the **barrier of cost**, which I did not think about. My interviewer mentioned that the cost of the software he uses to create beats was too high on multiple occasions and his biggest gripe. I did not consider that newcomers may not even want to pay for these expensive softwares. Furthermore, it seems like people on the software are using it for a **highly specialized purpose**, the participant was only using the software to create trap and rap beats exclusively.
 
 User Research: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT03](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT03)
 
