@@ -2,9 +2,9 @@
 
 Justin Jianto, Digital Humanities 150: UI/UX Design. 2022
 
-## About this Project
+![image](https://user-images.githubusercontent.com/54749984/171231937-a7a87977-de4d-468a-8702-5edf50a97eb8.png)
 
-What is the project about? The motivation of the project and possible contribution.
+## About this Project
 
 The goal of this project was to create a music learning app that would be catered towards middle aged men of varying music levels. Specifically, I am creating an ipad application that allows for users to learn and produce their own beats through a streamlined platform and share the beat with others to collaborate/gain feedback. 
 
@@ -12,9 +12,7 @@ The motivation of the project is that the barrier to entry for music production 
 
 ## Design Statement
 
-What is the issue and Why do you think it is important to resolve that issue by your project?
-
-The main issues are that current music production apps are **nonintuitive, expensive,** and**, separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a large general demographic to learn music production, share it with friends, for those who take it more casual or are just starting out, providing a frustration free solution.
+The main issues are that current music production apps are **nonintuitive, expensive,** and**, separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a **large general demographic** to learn music production, **share it with friends**, for those who take it more casual or are just starting out, providing a frustration free solution.
 
 ## Competitor analysis
 
