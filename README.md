@@ -37,7 +37,9 @@ User Research: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT03](ht
 
 In a similar vein to User Research, I performed UX storytelling which allows for us to better understand what type of music producers our product is going to be catered towards, thinking from the end users perspective instead of a designers perspective. From storytelling we can align our design to satisfy the requirements that real people have when they are creating music. For instance, I will focus on the story of 2 very different users, one that is producing music to learn more about beats and for his own edification. The other user will be using the service as more of a social tool, collaborating with other people on a hobby he loves. From creating these stories we can better keep in mind what the users want and design a product that fits all sorts of people.
 
-[ insert images ] 
+![image](https://user-images.githubusercontent.com/54749984/171265522-42ec54c4-34fc-4db4-b0f8-3d69bd056ef4.png)
+![image](https://user-images.githubusercontent.com/54749984/171265540-bc9e972e-06e1-4590-9220-68431e2d7228.png)
+
 
 UX Storytelling: [https://github.com/justinjianto/DH110/tree/main/Assignment4](https://github.com/justinjianto/DH110/tree/main/Assignment4)
 
@@ -45,7 +47,7 @@ UX Storytelling: [https://github.com/justinjianto/DH110/tree/main/Assignment4](h
 
 After conducting ample research and interviewing people our next task was to create a rudimentary wireframe of how the application would look. The wireframes wireframes and flow will be based off of the tasks our previous personas have executed, from creating beats from scratch and learning how to make music for Divan and sharing of beats for Jonah, people who have an interest in music production. The purpose of low fidelity prototyping is to allow us to have a rough early visualization of what our design looks like for our application. Furthermore, from this we can improve and iterate from our design by showing this to others and getting their feedback, seeing if our product is satisfying the users goals.
 
-[ Insert Images ] 
+<img width="1363" alt="image" src="https://user-images.githubusercontent.com/54749984/171265640-d581ae28-4d07-4934-b4f6-b4ac1e584fae.png">
 
 Wireframe: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT05](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT05)
 
