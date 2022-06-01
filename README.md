@@ -67,12 +67,9 @@ Finally, we move from the low fidelity to the high fidelity prototype, creating 
 
 <img width="1543" alt="image" src="https://user-images.githubusercontent.com/54749984/171267443-73c79b96-8c3d-4e3f-b3e9-763e4f087ffa.png">
 
-
 High Fidelity Prototype process: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT07](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT07)
 
 High Fidelity Prototype: [https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node-id=9%3A21&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A21](https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node-id=9%3A21&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A21)
-
-Summary statement and link to or an embedded prototype
 
 ## evaluation and revision history
 
