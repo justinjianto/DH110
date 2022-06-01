@@ -76,6 +76,7 @@ High Fidelity Prototype: [https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Ass
 Here is some miscellaneous links that lead to other testing that I had done that lead to different revisions:
 
 Cognitive Walkthrough Feedback: https://user-images.githubusercontent.com/54749984/170192503-0a4c6fee-2c82-4a81-8116-838478b3fd90.png
+
 V1 vs V2 Wireflow afer Feedback: https://docs.google.com/presentation/d/1_maEP-tDhjNI4WUw79Jqv39sC0RKuMLo17l0520A6Zw/edit?usp=sharing
 
 ## Pitch video 
