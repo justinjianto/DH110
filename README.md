@@ -71,7 +71,7 @@ High Fidelity Prototype process: [https://github.com/justinjianto/DH110/tree/mai
 
 High Fidelity Prototype: [https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node-id=9%3A21&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A21](https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Assignment-7?node-id=9%3A21&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A21)
 
-## evaluation and revision history
+## Evaluation and Revision History
 
 Here is some miscellaneous links that lead to other testing that I had done that lead to different revisions:
 
