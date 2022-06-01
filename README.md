@@ -12,7 +12,7 @@ The motivation of the project is that the barrier to entry for music production 
 
 ## Design Statement
 
-The main issues are that current music production apps are **nonintuitive, expensive,** and, **separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a large general demographic to **learn and create music production on the same platform**, **shar/collaborate with friends**, for those who take it more casual or are just starting out, providing a frustration **free** solution.
+The main issues are that current music production apps are **nonintuitive, expensive,** and, **separate doing and learning**. Thus, this limits the application to people who already have extensive knowledge in the domain or have friends that can teach them, leaving people who want to learn from scratch frustrated. My product allows for a large general demographic to **learn and create music production on the same platform**, **share/collaborate with friends**, for those who take it more casual or are just starting out, providing a frustration **free** solution.
 
 ## Competitor analysis
 
@@ -21,7 +21,7 @@ The main issues are that current music production apps are **nonintuitive, expen
 Before starting I did extensive research into alternate solutions and performed Heuristic Analysis and Usability Testing on [https://splice.com/sounds/beatmaker](https://splice.com/sounds/beatmaker), the closest web application to what I wanted to create. A quick summary of HA, I really like the interface that Splice provides, which directly allows for users to quickly to start playing with different music sounds. However, after looking deeper it provides very little help in terms of how to work beyond the basics, as in using the different sets for instruments in the bottom. It requires a lot of expirementing from the end user to guess and check what is happening.
 More Specifically, I found that the website had major issues in **Help and Documentation** and **User Control and Freedom**. The website provided a tool to create beats, but did not explain at all in how to use it and was limited in the options it provided. 
 
-Next I conducted user testing to see if my Heurisitic Analysis would be agreed with. The tasks that I had my participant do was **creating a simple beat**, **modifying the bea**t, and **saving the beat**. From the results my participant had trouble with creating a beat as he was confused with what was he was able and not able to do, in agreement with my heuristic analysis. Some other feedback provided was the application felt **Busy**, **Cheap**, and **Intimidating**
+Next I conducted user testing to see if my Heurisitic Analysis would be agreed with. The tasks that I had my participant do was **creating a simple beat**, **modifying the beat**, and **saving the beat**. From the results my participant had trouble with creating a beat as he was confused with what was he was able and not able to do, in agreement with my heuristic analysis. Some other feedback provided was the application felt **Busy**, **Cheap**, and **Intimidating**
 
 Heuristic Analysis: [https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT01](https://github.com/justinjianto/DH110/tree/main/ASSIGNMENT01)
 
@@ -74,15 +74,18 @@ High Fidelity Prototype: [https://www.figma.com/proto/qmUNBQ4ia18RLLm0VsK2qz/Ass
 
 Summary statement and link to or an embedded prototype
 
-## Optional evaluation and revision history
+## evaluation and revision history
 
-Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Here is some miscellaneous links that lead to other testing that I had done that lead to different revisions:
+
+Cognitive Walkthrough Feedback: https://user-images.githubusercontent.com/54749984/170192503-0a4c6fee-2c82-4a81-8116-838478b3fd90.png
+V1 vs V2 Wireflow afer Feedback: https://docs.google.com/presentation/d/1_maEP-tDhjNI4WUw79Jqv39sC0RKuMLo17l0520A6Zw/edit?usp=sharing
 
 ## Pitch video 
 
 WIP
 
-## conclusion: what you learned throughout the process
+## Conclusion
 
 This was my first ever exposure to the process of UI/UX research and it was an eye opening and great learning experience. Coming in I assumed most of the process was just going through different iterations of web designs on Figma and did not know about all the research that went in before even thinking about starting a prototype. Going through the design process taught a lot to me about the importance of doing research into competitors, goals of what you are creating, usability, and gauging feedback in every single step of the process. My biggest takeaway is that a vision that a designer might have to be perfect might not be well catered towards the public/targeted audience, so we constantly have to keep this in mind, thinking and working with the end users who will ultimately be the ones using the product. Learning this process through creating my own application has been a great experience as I went through it myself.
 
